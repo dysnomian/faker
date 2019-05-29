@@ -1,0 +1,622 @@
+en:
+  faker:
+    games:
+      touhou:
+        names:
+          - Reimu Hakurei
+          - Marisa Kirisame
+          - Rumia
+          - Daiyousei
+          - Cirno
+          - Hong Meiling
+          - Koakuma
+          - Patchouli Knowledge
+          - Sakuya Izayoi
+          - Remilia Scarlet
+          - Flandre Scarlet
+          - Letty Whiterock
+          - Chen Yakumo
+          - Alice Margatroid
+          - Lily White
+          - Lunasa Prismriver
+          - Merlin Prismriver
+          - Lyrica Prismriver
+          - Youmu Konpaku
+          - Yuyuko Saigyouji
+          - Ran Yakumo
+          - Yukari Yakumo
+          - Wriggle Nightbug
+          - Mystia Lorelei
+          - Keine Kamishirasawa
+          - Tewi Inaba
+          - Reisen Udongein Inaba
+          - Eirin Yagokoro
+          - Kaguya Houraisan
+          - Fujiwara no Mokou
+          - Aya Shameimaru
+          - Medicine Melancholy
+          - Yuuka Kazami
+          - Komachi Onozuka
+          - Sikieiki Yamaxanadu
+          - Shizuha Aki
+          - Minoriko Aki
+          - Hina Kagiyama
+          - Nitori Kawashiro
+          - Momiji Inubashiri
+          - Sanae Kochiya
+          - Kanako Yasaka
+          - Suwako Moriya
+          - Iku Nagae
+          - Tenshi Hinanai
+          - Kisume
+          - Yamame Kurodani
+          - Parsee Mizuhashi
+          - Yuugi Hoshiguma
+          - Satori Komeiji
+          - Rin Kaenbyou
+          - Utsuho Reiuji
+          - Koishi Komeiji
+          - Nazrin
+          - Kogasa Tatara
+          - Ichirin Kumoi
+          - Unzan
+          - Minamitsu Murasa
+          - Shou Toramaru
+          - Byakuren Hijiri
+          - Nue Houjuu
+          - Master Big Catfish
+          - Hatate Himekaidou
+          - Sunny Milk
+          - Luna Child
+          - Star Sapphire
+          - Kyouko Kasodani
+          - Yoshika Miyako
+          - Seiga Kaku
+          - Soga no Tojiko
+          - Mononobe no Futo
+          - Toyosatomimi no Miko
+          - Mamizou Futatsuiwa
+          - Hata no Kokoro
+          - Wakasagihime
+          - Sekibanki
+          - Kagerou Imaizumi
+          - Benben Tsukumo
+          - Yatsuhashi Tsukumo
+          - Seija Kijin
+          - Shinmyoumaru Sukuna
+          - Raiko Horikawa
+          - Kasen Ibaraki
+          - Sumireko Usami
+          - Seiran
+          - Ringo
+          - Doremy Sweet
+          - Sagume Kishin
+          - Clownpiece
+          - Junko
+          - Hecatia Lapislazuli
+          - Joon Yorigami
+          - Shion Yorigami
+          - Eternity Larva
+          - Nemuno Sakata
+          - Aunn Komano
+          - Narumi Yatadera
+          - Mai Teireida
+          - Satono Nishida
+          - Okina Matara
+          - Renko Usami
+          - Maribel Hearn
+          - Rinnosuke Morichika
+          - Hieda no Akyuu
+          - Watatsuki no Toyohime
+          - Watatsuki no Yorihime
+          - Kosuzu Motoori
+        adjectives:
+          - Hartmann’s
+          - Laplace’s
+          - ancient
+          - bohemian
+          - common
+          - double-dealing
+          - eastern
+          - emotional
+          - everlasting
+          - heartfelt
+          - hidden
+          - hopeless
+          - illusory
+          - imperishable
+          - impossible
+          - immaterial and missing
+          - immortal
+          - ink-black
+          - lunatic
+          - magical
+          - maiden's
+          - perfect
+          - ratsexy
+          - seraphic
+          - silent
+          - solar
+          - subterranean
+          - true
+          - venerable
+          - weakest
+          - wild and horned
+        nouns:
+          - administrator
+          - animism
+          - antinomy
+          - archive
+          - awakening
+          - beast
+          - bishamonten
+          - capital
+          - character
+          - cherry blossom
+          - crackship
+          - creature
+          - desires
+          - doll
+          - dream
+          - embodiment
+          - fantasy
+          - flowers
+          - funeral
+          - goast
+          - hermit
+          - legend
+          - masquerade
+          - mountain
+          - night
+          - nightmare
+          - phantasmagoria
+          - scrollery
+          - sinner
+          - spell card
+          - spider lily
+          - spirits
+          - star
+          - symposium
+          - voyage
+          - wisdom
+        ending_phrases:
+          - at the gate
+          - at the shrine
+          - in blue
+          - in eastern fantasy
+          - in four seasons
+          - in Japanese red
+          - in limbo
+          - in pseudo-paradise
+          - in rhapsody
+          - in the night sky
+          - of dead spirits
+          - of deserted Hell
+          - of faith
+          - of flower view
+          - of flowers in the sky
+          - of outer world
+          - of post-mysticism
+          - of scarlet devil
+          - of strange dream
+          - of the bamboo cutter
+          - of life
+          - on youkai mountain
+        items:
+          - Bunbunmaru newspaper
+          - Hawaiian shirt
+          - Hourai elixir
+          - Moriya shrine en
+          - Shanghai doll
+          - Teddy bear
+          - cucumber
+          - daidarabotchi
+          - dango
+          - frozen toad
+          - giant robot manga
+          - gohei
+          - gungnir
+          - hair bow
+          - hairpin
+          - kappa backpack
+          - kappa cap
+          - kiseru
+          - mini-Hakkero
+          - mob cap
+          - neverending sake bottle
+          - ofude
+          - palladium alloy
+          - parasol
+          - punk band tickets
+          - ribbons
+          - roasted eel
+          - sake dish
+          - shide
+          - shrine broom
+          - silver watch
+          - spell card
+          - tengu geta
+          - youkai scroll
+          - youkai text
+        occupations:
+          - Fox mom
+          - Noh performer
+          - Punk vocalist
+          - Supreme Judge of Hell
+          - Taoist disciple
+          - aquatic engineer
+          - bodhisattva
+          - carer
+          - dollmaker
+          - frog mom
+          - gardener
+          - gatekeeper
+          - guard
+          - hell fairy
+          - historian
+          - librarian
+          - living god
+          - maid
+          - meddlesome sage
+          - moon princess
+          - dowser general
+          - newspaper reporter
+          - noble lady
+          - pet
+          - sentient fusion reactor
+          - pharmacist
+          - poverty goddess
+          - queen of hell
+          - rock stacker
+          - sage
+          - saint
+          - scholar
+          - schoolteacher
+          - shikigami
+          - shinigami
+          - ship captain
+          - shopkeeper
+          - shrine maiden
+          - snake mom
+          - strongest fairy
+          - unremarkable human
+          - witch
+          - yakitori stand operator
+        ship_abbreviations:
+          - Aya
+          - Chiru
+          - Dai
+          - Ei
+          - Futo
+          - Hata
+          - Hiji
+          - Hina
+          - Ichi
+          - Kage
+          - Kana
+          - Kei
+          - Koa
+          - Koko
+          - Mami
+          - Mari
+          - Mari
+          - Miko
+          - Moko
+          - Momo
+          - Nazu
+          - Nito
+          - Nue
+          - Oku
+          - Pachi
+          - Ran
+          - Rei
+          - Rei
+          - Remi
+          - Ren
+          - Rin
+          - Rumi
+          - Saku
+          - Sana
+          - Sato
+          - Sei
+          - Seki
+          - Shio
+          - Shou
+          - Sumi
+          - Suwa
+          - Tei
+          - Ten
+          - Teru
+          - Toji
+          - Waka
+          - Yoshi
+          - You
+          - Yuka
+          - Yuu
+          - Yuyu
+        locations:
+          - Bamboo Forest of the Lost
+          - Eientei
+          - Forest of Magic
+          - Former Hell
+          - Garden of the Sun
+          - Genbu Ravine
+          - Hakugyokurou
+          - Hakurei Shrine
+          - Hall of Dreams' Great Mausoleum
+          - Hell
+          - Higan
+          - Human Village
+          - Kirisame Magic Shop
+          - Korindou
+          - Lunar Capital
+          - Makai
+          - Mayohiga
+          - Misty Lake
+          - Moriya Shrine
+          - Myouren Temple
+          - Nameless Hill
+          - Netherworld
+          - Nuclear Furnace
+          - Remains of Blazing Hell
+          - Sanzu River
+          - Scarlet Devil Manor
+          - Senkai
+          - Shining Needle Castle
+          - Suzunaan
+          - The Giant Toad's Pond
+          - Underground Geyser Center
+          - Untrodden Valley
+          - Waterfall of Nine Heavens
+          - Wind God's Lake
+          - Youkai Mountain
+        spell_cards:
+          - Barrier "Fantasy Boundary Crack"
+          - Bewitched Weapon "Dark Spark"
+          - Bewitched Weapon 'Merciless Purification Rod'
+          - Black Magic "Event Horizon"
+          - Charm 'Fantastic High-Speed Prayer Talismans'
+          - Chi Sign "Fierce Tiger Energy Release"
+          - Colorful Chinese Flower "Rainbow Taijiquan"
+          - Colorful Sign "Colorful Rain"
+          - Darkness Sign "Dark Side of the Moon"
+          - Divine Spear "Spear the Gungnir"
+          - Dream Sign 'Evil-Sealing Circle'
+          - Earth Water Sign "Noachian Deluge"
+          - Fire Metal Sign "Saint Elmo's Pillar"
+          - Fire Sign "Agni Shine"
+          - Fire Sign "Akiba Summer"
+          - Fire Sign "Ring of Agni"
+          - Fire Water Sign "Phlogistic Pillar"
+          - Fire Water Wood Metal Earth Sign "Philosopher's Stone"
+          - Forbidden Barrage "Clock that Ticks Away the Past"
+          - Freeze Sign "Minus K"
+          - Freeze Sign "Perfect Freeze"
+          - God Devil "Remilia Stoker"
+          - Holy Relic 'Yin-Yang Kishin Orb'
+          - Ice Sign "Cool Sunflower"
+          - Ice Sign "Icicle Fall"
+          - Ice Sign "Icicle Machine Gun"
+          - Ice Sign "Perfect Glacialist"
+          - Ice Sign "Ultimate Blizzard"
+          - Light Blast "Shoot the Moon"
+          - Love Sign "Master Spark"
+          - Magic Sign "Magical R360"
+          - Magicannon "Final Master Spark"
+          - Maid Secret Skill "Manipulating Doll"
+          - Metal & Water Sign "Mercury Poison"
+          - Mikuji 'Rule Violation Barrier'
+          - Moon Sign "Moonlight Ray"
+          - Moon Sign "Silent Selene"
+          - Needle Spark Sign "Needle Spark to Seal the Lunar Nobles"
+          - Night Lord "Dracula Cradle"
+          - Night Sign "Midnight Bird"
+          - Night Sign "Night Bird"
+          - Perverse Love "Easily-Fruitful Master Spark"
+          - Scarlet Sign "Scarlet Meister"
+          - Second Card "Checkmaid"
+          - Secret Barrage "And Then Will There Be None?"
+          - Shooting Star "Super Perseid"
+          - Silver Sign "Perfect Maid"
+          - Silver Sign "Silver Bound"
+          - Snow Sign "Diamond Blizzard"
+          - Spirit Sign 'Fantasy Seal'
+          - Star Sign "Escape Velocity"
+          - Star Sign "Gravity Beat"
+          - Star Sign "Meteonic Shower"
+          - Star Sign "Oort Cloud"
+          - Sun Sign "Royal Flare"
+          - Taboo "Maze of Love"
+          - Time Sign "Sakuya's Special Stopwatch"
+          - Time Sign "Time Stopper Sakuya"
+          - Watch "Lunar Dial"
+          - Water Sign "Jellyfish Princess"
+          - Water Sign "Princess Undine"
+          - Wound Sign "Inscribe Red Soul"
+        species:
+          - Human
+          - Kami
+          - Kappa
+          - Shinigami
+          - Yama
+          - Crow Tengu
+          - White Wolf Tengu
+          - Ice Fairy
+          - Fairy
+          - Magician
+          - Poultergeist
+          - Vampire
+          - Oni
+          - Yuki-Onna
+          - Bakeneko
+          - Kitsune
+          - Devil
+          - Witch
+          - Yamabiko
+          - Jiangshi
+          - Bakedanuki
+          - Hell Raven
+          - Doll
+          - Satori
+          - Nue
+          - Mermaid
+          - Kirin
+          - Tiger Youkai
+          - Mouse Youkai
+          - Firefly Youkai
+          - Komainu
+          - Youkai Oarfish
+          - Night Sparrow
+        games:
+          - The Embodiment of Scarlet Devil
+          - Perfect Cherry Blossom
+          - Immaterial and Missing Power
+          - Imperishable Night
+          - Phantasmagoria of Flower View
+          - Shoot the Bullet
+          - Mountain of Faith
+          - Scarlet Weather Rhapsody
+          - Subterranean Animism
+          - Undefined Fantastic Object
+          - Touhou Hisōtensoku
+          - Double Spoiler
+          - Fairy Wars
+          - Ten Desires
+          - Hopeless Masquerade
+          - Double Dealing Character
+          - Impossible Spell Card
+          - Urban Legend in Limbo
+          - Legacy of Lunatic Kingdom
+          - Antinomy of Common Flowers
+          - Hidden Star in Four Seasons
+          - Violet Detector
+          - Wily Beast and Weakest Creature
+        titles:
+          - Dolls in Pseudo Paradise
+          - Ghostly Field Club
+          - Changeability of Strange Dream
+          - Retrospective 53 minutes
+          - Magical Astronomy
+          - Unknown Flower, Mesmerizing Journey
+          - Trojan Green Asteroid
+          - Neo-traditionalism of Japan
+          - Dr. Latency's Freak Report
+          - Dateless Bar "Old Adam"
+          - Akyu's Untouched Score
+        print_works:
+          - Curiosities of Lotus Asia
+          - Bohemian Archive in Japanese Red
+          - Seasonal Dream Vision
+          - Perfect Memento in Strict Sense
+          - Touhou Bōgetsushō
+          - Grimoire of Marisa
+          - Wild and Horned Hermit
+          - Symposium of Post-mysticism
+          - Forbidden Scrollery
+          - Strange Creators of Outer World
+          - Alternative Facts in Eastern Utopia
+          - Grimoire of Usami
+        songs:
+          - Song of the Night Sparrow ~ Night Bird
+          - Deaf to All but the Song
+          - Nostalgic Blood of the East ~ Old World
+          - Plain Asia
+          - Retribution for the Eternal Night ~ Imperishable Night
+          - Maiden's Capriccio ~ Dream Battle
+          - Love-colored Master Spark
+          - Cinderella Cage ~ Kagome-Kagome
+          - Lunatic Eyes ~ Invisible Full Moon
+          - Voyage 1969
+          - Gensokyo Millennium ~ History of the Moon	
+          - Flight of the Bamboo Cutter ~ Lunatic Princess
+          - Voyage 1970
+          - Reach for the Moon, Immortal Smoke
+          - Eternal Dream ~ Mystical Maple
+          - Eastern Youkai Beauty
+          - Sealed Gods
+          - A God That Misses People ~ Romantic Fall
+          - Because Princess Inada Is Scolding Me
+          - The Road of the Misfortune God ~ Dark Road
+          - The Gensokyo The Gods Loved
+          - Akutagawa Ryuunosuke's "Kappa" ~ Candid Friend
+          - Fall of Fall ~ Autumnal Waterfall
+          - Youkai Mountain ~ Mysterious Mountain
+          - The Primal Scene of Japan the Girl Saw
+          - Faith Is for the Transient People
+          - Cemetery of Onbashira ~ Grave of Being
+          - The Venerable Ancient Battlefield ~ Suwa Foughten Field
+          - Tomorrow Will Be Special, Yesterday Was Not
+          - Native Faith
+          - Shrine at the Foot of the Mountain
+          - The Gods Give Us Blessed Rain ~ Sylphid Dream
+          - Ghostly Dream ~ Snow or Cherry Petal
+          - Paradise ~ Deep Mountain
+          - Crystallized Silver
+          - The Fantastic Tales from Tono
+          - Diao ye zong (withered leaf)
+          - The Doll Maker of Bucuresti
+          - Doll Judgment ~ The Girl Who Played with People's Shapes
+          - The Capital City of Flowers in the Sky
+          - Phantom Ensemble
+          - Eastern Ghostly Dream ~ Ancient Temple
+          - Hiroari Shoots a Strange Bird ~ Till When?
+          - Ultimate Truth
+          - Bloom Nobly, Ink-Black Cherry Blossom
+          - Border of Life
+          - Spiritual Domination
+          - A Maiden's Illusionary Funeral ~ Necro-Fantasy
+          - Spiritual Domination ~ Who done it!
+          - Necrofantasia
+          - Dream of a Spring Breeze
+          - Sakura, Sakura ~ Japanize Dream
+          - Awakening of the Earth Spirits
+          - The Dark Blowhole
+          - The Sealed-Away Youkai ~ Lost Place
+          - The Bridge People No Longer Cross
+          - Green-Eyed Jealousy
+          - Walking the Streets of a Former Hell
+          - A Flower-Studded Sake Dish on Mt. Ooe
+          - Heartfelt Fancy
+          - Satori Maiden ~ 3rd Eye
+          - Lullaby of Deserted Hell
+          - Corpse Voyage ~ Be of good cheer!
+          - Hellfire Mantle
+          - Solar Sect of Mystic Wisdom ~ Nuclear Fusion
+          - Last Remote
+          - Hartmann's Youkai Girl
+          - The Earth Spirits' Homecoming
+          - Energy Daybreak ~ Future Dream...
+          - Spirit of Avarice
+          - Night Sakura of Dead Spirits
+          - Ghost Lead
+          - Welcome to Youkai Temple
+          - Youkai Girl at the Gate
+          - Let’s Live in a Lovely Cemetery
+          - Rigid Paradise
+          - Desire Drive
+          - Old Yuanxian
+          - The Hall of Dreams' Great Mausoleum
+          - Omiwa Legend
+          - Starry Sky of Small Desires
+          - Shoutoku Legend ~ True Administrator
+          - Youkai Back Shrine Road
+          - Futatsuiwa from Sado
+          - A New Wind at the Shrine
+          - Desire Dream
+          - A Shadow In The Blue Sky
+          - At the End of Spring
+          - A Tiny, Tiny, Clever Commander
+          - The Sealed Cloud Route
+          - Beware the Umbrella Left There Forever
+          - Sky Ruin
+          - The Traditional Old Man and the Stylish Girl
+          - Interdimensional Voyage of a Ghostly Passenger Ship
+          - Captain Murasa
+          - Rural Makai City Esoteria
+          - The Tiger-Patterned Bishamonten
+          - Fires of Hokkai
+          - Emotional Skyscraper ~ Cosmic Mind
+          - UFO Romance in the Night Sky
+          - Heian Alien
+          - Youkai Temple
+          - Returning Home from the Sky ~ Sky Dream
